@@ -54,13 +54,11 @@ cd Crop-Data-Visualization
 
 ### **Step 2: Install Dependencies**
 
-Ensure you have Yarn installed. Then, run:
-yarn install
+    yarn install
 
 ### **Step 3: Run the Development Server**
 
-Start the development server and open the application in your browser:
-yarn dev
+    yarn dev
 
 ### Usage
 
